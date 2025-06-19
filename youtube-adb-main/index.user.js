@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         youtube-adb
+// @name         New-yt-adblocker
 // @name:zh-CN   YouTube去广告
 // @name:zh-TW   YouTube去廣告
 // @name:zh-HK   YouTube去廣告
